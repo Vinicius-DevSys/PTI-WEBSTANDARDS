@@ -103,7 +103,7 @@ div.content6 > form > label {
 }
 
 div.content6 > form > input {
-    padding: 10px 5px;
+    padding: 10px 10px 10px;
     margin-bottom: 10px;
     width: auto;
 }
